@@ -1,0 +1,8 @@
+No;Company;Title;Academic Title;First Name;Family Name;Street;Postal Code;City;Telephone;Email;Language
+1;Foo Inc.;Dear Ms;;Jane;Roe;;;;;no@reply.org;en
+2;Foo Inc.;Dear Mr;;John;Doe;;;;;no@reply.org;en
+3;Foo Inc.;Dear;Dr.;Jane;Roe;;;;;no@reply.org;en
+4;Bar GmbH;Sehr geehrte Frau;;Lieschen;Müller;;;;;no@reply.org;de
+5;Bar GmbH;Sehr geehrter Herr;;Max;Mustermann;;;;;no@reply.org;de
+6;Bar GmbH;Sehr geehrter Frau;Dr.;Lieschen;Müller;;;;;no@reply.org;de
+7;Bar GmbH;Sehr geehrter Herr;Dr.;Max;Musterman;;;;;no@reply.org;de
