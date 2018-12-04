@@ -57,7 +57,7 @@
     $mimeBoundary_rel = "-----=rel" . md5(uniqid(mt_rand(), 1));
 
     # load setup (abort script if an error occur)
-    require("serialLetter.setup.php");
+    require("phpMailMerge.setup.php");
     $message_de = file_get_contents($message_de);
     $message_en = file_get_contents($message_en);
     if ($message_de === false or $message_en === FALSE) {
